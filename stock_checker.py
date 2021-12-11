@@ -26,5 +26,5 @@ while True:
     else:
         print(datetime.now())
         print(Fore.GREEN + "ITEM IS IN STOCK!!! :D\n\n")
-    #wait for an hout
+    #wait for an hour
     time.sleep(3600)
